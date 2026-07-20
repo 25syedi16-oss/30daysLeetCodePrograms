@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1116-print-zero-even-odd) |
 | [1226-the-dining-philosophers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1226-the-dining-philosophers) |
 ## Geometry
 |  |
