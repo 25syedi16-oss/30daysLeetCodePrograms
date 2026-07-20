@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0029-divide-two-integers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1115-print-foobar-alternately) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
