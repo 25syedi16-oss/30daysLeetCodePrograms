@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0029-divide-two-integers) |
@@ -78,4 +79,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
