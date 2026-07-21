@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
+| [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
