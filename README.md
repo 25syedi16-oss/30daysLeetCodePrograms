@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0035-search-insert-position) |
+| [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1470-shuffle-the-array) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0001-two-sum) |
+| [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -83,8 +86,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
+| [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0002-add-two-numbers) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
