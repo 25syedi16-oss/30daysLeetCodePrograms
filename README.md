@@ -10,6 +10,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1470-shuffle-the-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1108-defanging-an-ip-address](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/25syedi16-oss/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/25syedi16-oss/Leet-Code/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/25syedi16-oss/30daysLeetCodePrograms/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/25syedi16-oss/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
